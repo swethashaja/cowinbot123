@@ -28,9 +28,9 @@ BFH/recLoEF0l7deFvoUr/2021
 👉[Click here](https://discord.com/api/oauth2/authorize?client_id=843462594022604821&permissions=0&redirect_uri=https%3A%2F%2Fdiscord.com%2Fapi%2Foauth2%2Fauthorize%3Fclient_id%3D843462594022604821%26scope%3Dbot%26permissions%3D1&scope=bot) to add the bot to your server or you can 👉[click here](https://discord.gg/8gg7zg5aYN) to join our **Dr. Bot** server.
 
   Type **!hello**  in text channels to show the info about the bot and further commands
- The Dr.Bot has many commands. Here are some..<br>
+ The **Dr.Bot** has many commands. Here are some..<br>
 <ul>
-<li><b>!help</b>- This command helps the user to identify the remaining commands for the Dr Bot.</li>
+<li><b>!help</b>- This command helps the user to identify the remaining commands for the **Dr Bot**.</li>
 <li><b>!about vaccine</b>- This command provides the gap that should take between the first two doses of each available vaccine.</li>
 <li><b>!vaccine registration</b> - This command provides the link to the user to register the vaccine if available.</li>
 <li><b>!available vaccine slots</b>- This command leads to the format</li>
@@ -65,7 +65,8 @@ npm install
 ```
 4. Get your bots token and save as token.json in the format
 ```
-{ token ="regenerated token_id of bot"
+{ 
+"token" ="<Generated Token ID>"
  }
 ```
 5.Run server
