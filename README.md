@@ -8,25 +8,27 @@ to add bot in your server</h2>
  After the first wave of COVID-19 vaccinations opened up for the 18-44 age group in India, appointments via the Co-win portal were made mandatory.
 To help through this severe crisis that effected mankind we have designed a chat bot which will assist you with all the information that you need to know about covid-19 and its related queries. This bot will give directions to register the vaccine, give awareness about the serious symptoms and guidelines to handle the situation if they have Covid-19 symptoms and how to manage the condition. This bot works at any time whenever you need.</p>
 📌<b>Key features of the bot is listed below:</b>📌<br><br>
-•	On command you will be able to register a district to get vaccinated and select age group (18+ or 45+).<br>
+•	On command you will be able to register a district to get vaccinated on a particular date.<br>
 •	Able to get hourly update on open slots if available<br>
 •	User will be able to manually check COWIN slots available for their district<br>
 •	Navigate to COWIN site if slot available<br>
-The most important step to prevent covid-19 transmission is <b>SMS </b>😉 <br> <b>Social distancing <br> Mask <br>Sanitize</b><br> Don’t forget it 😌
+• Bot also gives the information about the symptoms and vaccination gap taken between two doses
+The most important step to prevent covid-19 transmission is <b>SMS </b>😉 <br> <b> 💙Social distancing <br> 💙Mask <br>💙Sanitize</b><br> Don’t forget it 😌
 Stay Home Stay Safe….<br>
 
 ## Team members
 1. [Swetha Shajan](https://github.com/swethashaja) <br>
 2. [Varsha V G](https://github.com/varsha-v-g)<br>
-3. [Ajeesha K A](https://github.com/aji2256)<b>
+3. [Ajeesha K A](https://github.com/aji2256)
 ## Team Id
 BFH/recLoEF0l7deFvoUr/2021
-## Link to product walkthrough
-[Click Here](https://www.loom.com/share/0ba69a994d7b471daf0fba0cd614e1b0) to know how bot works (video)
+## Link to product walkthrough📽
+👉[Click Here](https://www.loom.com/share/0ba69a994d7b471daf0fba0cd614e1b0) to know how bot works (video)
 ## How it Works ?
-👉[Click here](https://discord.com/api/oauth2/authorize?client_id=843462594022604821&permissions=0&redirect_uri=https%3A%2F%2Fdiscord.com%2Fapi%2Foauth2%2Fauthorize%3Fclient_id%3D843462594022604821%26scope%3Dbot%26permissions%3D1&scope=bot) to add the bot to your server or you can 👉[click here](https://discord.gg/8gg7zg5aYN) to join our Dr. Bot server
-Type !hello  in text channels to show the info about tue bot
-The Dr.Bot has many commands. Here are some..<br>
+👉[Click here](https://discord.com/api/oauth2/authorize?client_id=843462594022604821&permissions=0&redirect_uri=https%3A%2F%2Fdiscord.com%2Fapi%2Foauth2%2Fauthorize%3Fclient_id%3D843462594022604821%26scope%3Dbot%26permissions%3D1&scope=bot) to add the bot to your server or you can 👉[click here](https://discord.gg/8gg7zg5aYN) to join our **Dr. Bot server**.
+
+  Type **!hello**  in text channels to show the info about the bot and further commands
+ The Dr.Bot has many commands. Here are some..<br>
 <ul>
 <li><b>!help</b>- This command helps the user to identify the remaining commands for the Dr Bot.</li>
 <li><b>!about vaccine</b>- This command provides the gap that should take between the first two doses of each available vaccine.</li>
@@ -60,6 +62,15 @@ cd cowinbot123
 3.install Libraries
 ```
 npm install
+```
+4. Get your bots token and save as token.json in the format
+```
+{ token ="regenerated token_id of bot"
+ }
+```
+5.Run server
+```
+node app.js
 ```
 
 ### Screenshots
