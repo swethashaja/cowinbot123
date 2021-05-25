@@ -25,7 +25,7 @@ BFH/recLoEF0l7deFvoUr/2021
 ## Link to product walkthrough📽
 👉[Click Here](https://www.loom.com/share/0ba69a994d7b471daf0fba0cd614e1b0) to know how bot works (video)
 ## How it Works ?
-👉[Click here](https://discord.com/api/oauth2/authorize?client_id=843462594022604821&permissions=0&redirect_uri=https%3A%2F%2Fdiscord.com%2Fapi%2Foauth2%2Fauthorize%3Fclient_id%3D843462594022604821%26scope%3Dbot%26permissions%3D1&scope=bot) to add the bot to your server or you can 👉[click here](https://discord.gg/8gg7zg5aYN) to join our **Dr. Bot server**.
+👉[Click here](https://discord.com/api/oauth2/authorize?client_id=843462594022604821&permissions=0&redirect_uri=https%3A%2F%2Fdiscord.com%2Fapi%2Foauth2%2Fauthorize%3Fclient_id%3D843462594022604821%26scope%3Dbot%26permissions%3D1&scope=bot) to add the bot to your server or you can 👉[click here](https://discord.gg/8gg7zg5aYN) to join our **Dr. Bot** server.
 
   Type **!hello**  in text channels to show the info about the bot and further commands
  The Dr.Bot has many commands. Here are some..<br>
