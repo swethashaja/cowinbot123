@@ -18,12 +18,14 @@ Stay Home Stay Safe….<br>
 ## Team members
 1. [Swetha Shajan](https://github.com/swethashaja) <br>
 2. [Varsha V G](https://github.com/varsha-v-g)<br>
-3. [Ajeesha K A](https://github.com/aji2256)
+3. [Ajeesha K A](https://github.com/aji2256)<b>
 ## Team Id
 BFH/recLoEF0l7deFvoUr/2021
 ## Link to product walkthrough
 [Click Here](https://www.loom.com/share/0ba69a994d7b471daf0fba0cd614e1b0) to know how bot works (video)
 ## How it Works ?
+👉[Click here](https://discord.com/api/oauth2/authorize?client_id=843462594022604821&permissions=0&redirect_uri=https%3A%2F%2Fdiscord.com%2Fapi%2Foauth2%2Fauthorize%3Fclient_id%3D843462594022604821%26scope%3Dbot%26permissions%3D1&scope=bot) to add the bot to your server or you can 👉[click here](https://discord.gg/8gg7zg5aYN) to join our Dr. Bot server
+Type !hello  in text channels to show the info about tue bot
 The Dr.Bot has many commands. Here are some..<br>
 <ul>
 <li><b>!help</b>- This command helps the user to identify the remaining commands for the Dr Bot.</li>
@@ -37,13 +39,6 @@ The Dr.Bot has many commands. Here are some..<br>
 <li><b>!subscribe&lt;SPACE&gt; Date&lt;SPACE&gt;District name</b></li>
 </ul>
 
-### Screenshots
-<p><img src="https://github.com/aji2256/vas175/blob/main/icon/ss1.jpeg" width="200" height="400">
-<img src="https://github.com/aji2256/vas175/blob/main/icon/ss2.jpeg" width="200" height="400">
-<img src="https://github.com/aji2256/vas175/blob/main/icon/ss3.jpeg" width="200" height="400">
-<img src="https://github.com/aji2256/vas175/blob/main/icon/ss4.jpeg" width="200" height="400">
-<img src="https://github.com/aji2256/vas175/blob/main/icon/ss5.jpeg" width="200" height="400">
-<img src="https://github.com/aji2256/vas175/blob/main/icon/ss6.jpeg" width="200" height="400"></p>
 
 ## Libraries used
 Node.js - 14.17.0<br>
@@ -52,7 +47,7 @@ Axios- To fetch the COWIN API<br>
 Node-cron - For the scheduled updation of vaccine slots<br>
 Express - webframe work
 
-## How to configure
+## How to Configure and Run
 1.Clone project
 ```
 git clone https://github.com/swethashaja/cowinbot123.git
@@ -66,5 +61,12 @@ cd cowinbot123
 ```
 npm install
 ```
-## How to Run
-Instructions for running
+
+### Screenshots
+<p><img src="https://github.com/aji2256/vas175/blob/main/icon/ss1.jpeg" width="200" height="400">
+<img src="https://github.com/aji2256/vas175/blob/main/icon/ss2.jpeg" width="200" height="400">
+<img src="https://github.com/aji2256/vas175/blob/main/icon/ss3.jpeg" width="200" height="400">
+<img src="https://github.com/aji2256/vas175/blob/main/icon/ss4.jpeg" width="200" height="400">
+<img src="https://github.com/aji2256/vas175/blob/main/icon/ss5.jpeg" width="200" height="400">
+<img src="https://github.com/aji2256/vas175/blob/main/icon/ss6.jpeg" width="200" height="400"></p>
+
